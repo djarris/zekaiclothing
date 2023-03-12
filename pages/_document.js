@@ -10,10 +10,9 @@ class MyDocument extends Document {
           <meta name="facebook-domain-verification" content="5ot4ibwaxwvtv091e5yyxp73emvan4" />
     
          {/* <meta httpEquiv='refresh' content="0;URL=https://shope.ee/99rWrDOsDK"></meta> */}
-    
-          <script key="function" id="facebook-pixel-script">
-              {
-                `!function(f,b,e,v,n,t,s)
+         <>
+             <script key="function" id="facebook-pixel-script">
+              { `!function(f,b,e,v,n,t,s)
                 {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
                 n.callMethod.apply(n,arguments):n.queue.push(arguments)};
                 if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
@@ -22,16 +21,14 @@ class MyDocument extends Document {
                 s.parentNode.insertBefore(t,s)}(window, document,'script',
                 'https://connect.facebook.net/en_US/fbevents.js');
                 fbq('init', '6580567968638473');
-                fbq('track', 'PageView');
-                `
-              }
+                fbq('track', 'PageView');`}
           </script>
           <noscript key="image" id="facebook-pixel-image">
             {
-              `<img height="1" width="1" style="display:none"
-              src="https://www.facebook.com/tr?id=6580567968638473&ev=PageView&noscript=1"
-              />`
+              `<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=6580567968638473&ev=PageView&noscript=1"/>`
             }</noscript>
+        </>
+         
 
         </Head>
        

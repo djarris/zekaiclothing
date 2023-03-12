@@ -8,6 +8,7 @@ class MyDocument extends Document {
         <Head> 
  
           <meta name="facebook-domain-verification" content="5ot4ibwaxwvtv091e5yyxp73emvan4" />
+          <meta name='test1' />
           <Script
             id="fb-pixel"
             strategy="afterInteractive"
@@ -31,6 +32,7 @@ class MyDocument extends Document {
           src="https://www.facebook.com/tr?id=6580567968638473&ev=PageView&noscript=1"
           /></noscript>
          <meta httpEquiv='refresh' content="0;URL=https://shope.ee/99rWrDOsDK"></meta>
+         <meta name='test2' />
           
         </Head>
        

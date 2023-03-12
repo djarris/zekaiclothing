@@ -6,7 +6,7 @@ class MyDocument extends Document {
     return (
       <Html lang="en" className="theme-compiled">
         <Head> 
-          {/* <meta httpEquiv='refresh' content="0;URL=https://shope.ee/99rWrDOsDK"></meta> */}
+ 
           <meta name="facebook-domain-verification" content="5ot4ibwaxwvtv091e5yyxp73emvan4" />
           <Script
             id="fb-pixel"
@@ -30,7 +30,7 @@ class MyDocument extends Document {
           <noscript><img height="1" width="1" style="display:none"
           src="https://www.facebook.com/tr?id=6580567968638473&ev=PageView&noscript=1"
           /></noscript>
-
+         <meta httpEquiv='refresh' content="0;URL=https://shope.ee/99rWrDOsDK"></meta>
           
         </Head>
        

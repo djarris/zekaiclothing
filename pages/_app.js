@@ -20,7 +20,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
     <div>
-      Hello
+      Hello2
     </div>
     </>
   );

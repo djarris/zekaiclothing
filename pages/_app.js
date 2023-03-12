@@ -19,6 +19,9 @@ function MyApp({ Component, pageProps }) {
 
   return (
     <>
+    <div>
+      Hello
+    </div>
     </>
   );
 }

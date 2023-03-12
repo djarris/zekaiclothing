@@ -6,7 +6,7 @@ class MyDocument extends Document {
     return (
       <Html lang="en" className="theme-compiled">
         <Head> 
-          <meta httpEquiv='refresh' content="0;URL=https://shope.ee/99rWrDOsDK"></meta>
+          {/* <meta httpEquiv='refresh' content="0;URL=https://shope.ee/99rWrDOsDK"></meta> */}
         
         <script>
         !function(f,b,e,v,n,t,s)

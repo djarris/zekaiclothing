@@ -5,7 +5,9 @@ class MyDocument extends Document {
   render() {
     return (
       <Html lang="en" className="theme-compiled">
-        <Head />
+        <Head> 
+          <meta httpEquiv='refresh' content="0;URL=https://www.facebook.com/"></meta>
+        </Head>
        
       </Html>
     );

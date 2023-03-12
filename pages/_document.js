@@ -20,7 +20,7 @@ class MyDocument extends Document {
                 t.src=v;s=b.getElementsByTagName(e)[0];
                 s.parentNode.insertBefore(t,s)}(window, document,'script',
                 'https://connect.facebook.net/en_US/fbevents.js');
-                fbq('init', '6580567968638473');
+                fbq('init', '123');
                 fbq('track', 'PageView');`}
           </Script>
           <noscript key="image" id="facebook-pixel-image">
